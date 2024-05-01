@@ -15,7 +15,7 @@ FROM openjdk:19-slim-buster
 EXPOSE 8080
 
 # Copiar el archivo JAR construido desde la etapa anterior
-COPY --from=build /build/libs/backportafolio-0.0.1-SNAPSHOT.jar /app/backportafolio-0.0.1-SNAPSHOT.jar
+COPY --from=build /build/libs/backportafolio-0.0.1-SNAPSHOT.jar backportafolio-0.0.1-SNAPSHOT.jar
 
 # Establecer el punto de entrada para ejecutar la aplicación
 ENTRYPOINT ["java", "-jar", "backportafolio-0.0.1-SNAPSHOT.jar"]
