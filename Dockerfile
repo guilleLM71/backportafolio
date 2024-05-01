@@ -1,11 +1,9 @@
 # Usar una imagen base con JDK 11 y Maven
-FROM maven:3.8-amazoncorretto-19 AS build
+FROM ubuntu:latest AS build
 
+RUN apt-get install openjdk-19-jdk -y
 # Establecer un directorio de trabajo
-WORKDIR /app
-
-# Copiar archivos de tu proyecto al directorio de trabajo
-COPY . /app
+COPY . .
 
 # Ejecutar Maven para construir el proyecto
 RUN mvn clean package
