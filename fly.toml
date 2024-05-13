@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for backportafolio-hidden-field-4191 on 2024-04-30T19:52:37-04:00
+# fly.toml app configuration file generated for backportafolio-wild-wildflower-7955 on 2024-05-05T23:43:01-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'backportafolio-hidden-field-4191'
-primary_region = 'gru'
+app = 'backportafolio-wild-wildflower-7955'
+primary_region = 'scl'
 
 [build]
 
