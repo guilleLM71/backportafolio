@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for backportafolio-wild-wildflower-7955 on 2024-05-05T23:43:01-04:00
+# fly.toml app configuration file generated for backportafolio on 2024-05-27T22:05:10-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'backportafolio-wild-wildflower-7955'
-primary_region = 'scl'
+app = 'backportafolio'
+primary_region = 'bog'
 
 [build]
 
