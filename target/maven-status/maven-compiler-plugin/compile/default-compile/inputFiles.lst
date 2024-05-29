@@ -26,6 +26,7 @@ G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backpo
 G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backportafolio\backportafolio\aplication\usecases\ProyectosUseCaseImpl.java
 G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backportafolio\backportafolio\domain\ports\outputs\SkillPrimRepositoryPort.java
 G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backportafolio\backportafolio\aplication\usecases\PerfilUseCaseImpl.java
+G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backportafolio\backportafolio\infrastructure\config\WebCors.java
 G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backportafolio\backportafolio\domain\ports\inputs\ProyectosUseCase.java
 G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backportafolio\backportafolio\domain\models\SkillPrim.java
 G:\backup\Users\Guille\Desktop\proyectos\backportafolio\src\main\java\com\backportafolio\backportafolio\domain\models\Educacion.java
